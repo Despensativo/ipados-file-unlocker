@@ -80,6 +80,15 @@ The script provides:
 - confirmation before changing a selected folder
 - no `rm`, `rmdir`, `unlink` or other delete command
 
+### Quick install from a-Shell
+
+From the a-Shell Documents folder:
+
+```sh
+curl -L https://raw.githubusercontent.com/Despensativo/ipados-file-unlocker/main/ipados-file-unlocker.sh -o ipados-file-unlocker.sh
+sh ipados-file-unlocker.sh
+```
+
 ### Recommended setup
 
 Keep the script inside the **a-Shell Documents folder** so a-Shell can always access it.
@@ -174,7 +183,14 @@ chmod -R u+rwX .
 
 ## Para quem precisa repetir a correção
 
-Use:
+Você pode baixar direto pelo a-Shell:
+
+```sh
+curl -L https://raw.githubusercontent.com/Despensativo/ipados-file-unlocker/main/ipados-file-unlocker.sh -o ipados-file-unlocker.sh
+sh ipados-file-unlocker.sh
+```
+
+Ou, se o arquivo já estiver salvo:
 
 ```sh
 sh ipados-file-unlocker.sh
