@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/ipados-file-unlocker-banner.jpg" alt="iOS / iPadOS File Unlocker Hero Banner" width="100%">
+</p>
+
 # iOS / iPadOS File Unlocker
 
 A small workaround for **locked files that cannot be deleted or restored in the Files app**, including files stuck in **Recently Deleted / Apagados** with errors such as **OSStatus -45**.
