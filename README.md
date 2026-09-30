@@ -10,6 +10,8 @@ Designed for **iPhone and iPad** using [a-Shell](https://github.com/holzschu/a-s
 
 > **Safety:** this project does **not delete files**. It only removes file-lock flags and restores owner read/write permissions. Deletion or restoration is still done manually in Apple's Files app.
 
+> **Keywords / SEO**: iOS locked files, iPadOS OSStatus -45, cannot delete files in Files app, Files app stuck recently deleted, chflags uchg fix iOS, a-Shell file permissions repair, fix error -45 iPad, apagar arquivos bloqueados iPad.
+
 ## What this fixes
 
 This workaround is useful when a file is visible in Files but:
